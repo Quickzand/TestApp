@@ -9,7 +9,7 @@ import SwiftUI
 
 
 var inventoryListData: [inventoryListRowData] = [
-    inventoryListRowData(name: "Scrimblies", count: 8),
+    inventoryListRowData(name: "Scromblies", count: 8),
     inventoryListRowData(name: "Scomboids", count: 8),
     inventoryListRowData(name: "Scrodes", count: 8),
     inventoryListRowData(name: "Pencils", count: 8)
